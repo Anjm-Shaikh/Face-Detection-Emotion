@@ -53,11 +53,6 @@ pip install -r requirements.txt
 ```bash
 python facedetection.py
 ```
-
-## 📹 Demo Video
-
-[Insert your video demo link here]
-
 ## 📄 License
 
 MIT License © 2025 [Your Name]
